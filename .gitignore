@@ -1,11 +1,15 @@
+.gitattributes
+.gitignore
+
 # beckend
 ./beckend/node_modules
 ./beckend/.env
+./beckend/.gitignore
 
 # frontend
 ./frontend/node_modules
 ./frontend/.next
-./frontend/
+./frontend/.gitignore
 
 ./frontend/.pnp
 ./frontend/.pnp.js
