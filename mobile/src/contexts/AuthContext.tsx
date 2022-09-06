@@ -37,7 +37,7 @@ export function AuthProvider({ children }: AuthProviderProps){
         name: '',
         email: '',
         token: '',
-    })
+    }) 
 
     const [loadingAuth, setLoadingAuth] = useState(false)
 
