@@ -1,7 +1,7 @@
 import { FormEvent, useState, useContext } from "react";
 
-import Head from "../../../node_modules/next/head";
-import Image from "../../../node_modules/next/image";
+import Head from "next/head";
+import Image from "next/image";
 
 import styles from '../../../styles/home.module.scss';
 import logoImg from "../../../public/logo.svg";
@@ -9,11 +9,11 @@ import logoImg from "../../../public/logo.svg";
 import { Input } from "../../components/ui/Input/index";
 import { Button } from "../../components/ui/Button/index";
 
-import Link from "../../../node_modules/next/link";
+import Link from "next/link";
 
 
 import { AuthContext } from "../../contexts/AuthContext";
-import { toast } from "../../node_modules/react-toastify/dist/index";
+import { toast } from 'react-toastify';
 
 export default function SignUp() {
   const { signUp } = useContext(AuthContext);

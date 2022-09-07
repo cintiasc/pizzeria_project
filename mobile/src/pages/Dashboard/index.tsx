@@ -7,6 +7,8 @@ import {
     StyleSheet,
     TextInput
 } from 'react-native';
+import { Feather } from '@expo/vector-icons';
+
 import { useNavigation } from "@react-navigation/native";
 import { NativeStackNavigationProp } from "@react-navigation/native-stack";
 
@@ -38,7 +40,12 @@ export default function Dashboard(){
 
     return(
         <SafeAreaView style={styles.container}>
+            <TouchableOpacity style={styles.signOutbutton}  onPress={signOut}>
+                {/* <Text style={styles.textButton}>Finalizar pedido</Text> */}
+                <Feather name='log-out' size={25} color='#FFF' />
+            </TouchableOpacity>
             
+
             <Text style={styles.title}>Novo Pedido</Text>
 
             <TextInput
@@ -94,5 +101,13 @@ const styles = StyleSheet.create({
         fontSize: 18,
         color: '#101026',
         fontWeight: 'bold'
+    },
+    signOutbutton:{
+        position: 'absolute',
+        top: '5%',
+        right: '5%',
+        backgroundColor:'#101026',
+        padding: 10,
+        borderRadius: 4
     }
 })
