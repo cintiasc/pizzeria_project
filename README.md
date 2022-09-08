@@ -49,14 +49,16 @@ product
 
 2.1. Login
  
+<img src="public/images/mobile/android_/login.jpg" height="300" alt="android">
 <img src="public/images/mobile/ios/login.png" height="300" alt="ios">
 
 2.2. Order
  
-<img src="public/images/mobile/ios/order-1.png" height="300" alt="ios">
+<img src="public/images/mobile/android_/order-1.jpg" height="300" alt="android"> <img src="public/images/mobile/ios/order-1.png" height="300" alt="ios">
 
+<img src="public/images/mobile/android_/order-2.jpg" height="300" alt="android">
 <img src="public/images/mobile/ios/order-3.png" height="300" alt="ios">
 
+<img src="public/images/mobile/android_/order-3.jpg" height="300" alt="android">
 <img src="public/images/mobile/ios/order-4.png" height="300" alt="ios">
 
-... under construction
