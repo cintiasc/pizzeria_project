@@ -49,16 +49,23 @@ product
 
 2.1. Login
  
-<img src="public/images/mobile/android_/login.jpg" height="300" alt="android">
-<img src="public/images/mobile/ios/login.png" height="300" alt="ios">
+<img src="public/images/mobile/login.jpg" height="300" alt="login">
 
 2.2. Order
  
-<img src="public/images/mobile/android_/order-1.jpg" height="300" alt="android"> <img src="public/images/mobile/ios/order-1.png" height="300" alt="ios">
+<img src="public/images/mobile/order-1.jpg" height="300" alt="new order">
 
-<img src="public/images/mobile/android_/order-2.jpg" height="300" alt="android">
-<img src="public/images/mobile/ios/order-3.png" height="300" alt="ios">
+<img src="public/images/mobile/order-2.jpg" height="300" alt="order">
 
-<img src="public/images/mobile/android_/order-3.jpg" height="300" alt="android">
-<img src="public/images/mobile/ios/order-4.png" height="300" alt="ios">
+<img src="public/images/mobile/order-3.jpg" height="300" alt="order">
+
+<img src="public/images/mobile/finish_order.jpg" height="300" alt="finish order">
+
+#
+
+### _Credits:_
+
+Icon by <a target="_blank" href="https://icons8.com" style="text-decoration: none; color: #349beb">Icons8</a>.
+
+Images got by <a target="_blank" href="https://br.freepik.com/fotos-vetores-gratis/" style="text-decoration: none; color: #349beb">Freepik</a>.
 
